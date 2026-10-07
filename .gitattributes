@@ -1,0 +1,2 @@
+# Keep the verified upstream Babylon payload byte-for-byte, including its final blank line.
+vendor/babylon.js whitespace=-blank-at-eof linguist-vendored=true
